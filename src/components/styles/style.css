@@ -1,0 +1,1187 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+@font-face {
+  font-family: bebas;
+  src: url(../fonts/BebasNeue-Regular.ttf);
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.logo-con {
+  display: flex;
+  align-items: center;
+}
+
+.meg-nav-con {
+  width: 100%;
+  top: 0;
+  left: 0;
+  transition: 0.5s;
+  padding: 21px 70px 0 70px;
+  height: 117px;
+  z-index: 5;
+  display: flex;
+  justify-content: space-between;
+}
+
+.meg-ground-white {
+  background-color: white;
+}
+
+.meg-ground-black {
+  background-color: black;
+}
+
+.meg-mob-header {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  flex-direction: column;
+}
+
+.meg-mob-link-flex {
+  flex-grow: 1;
+  display: none;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.meg-mob-li li {
+  margin: 35px 0;
+  text-align: center;
+}
+
+.meg-mob-li li a {
+  font-size: 18px;
+}
+
+.mob-link-black li a {
+  color: black;
+}
+
+.mob-link-white li a {
+  color: white;
+}
+
+.meg-hide .meg-mobNav {
+  display: none;
+}
+
+.meg-nav-con .logo-con img {
+  width: 75px;
+  transition: 0.5s;
+}
+
+.meg-topnav {
+  padding: 2px 20px;
+  display: flex;
+  align-items: center;
+}
+.meg-topnav ul {
+  display: flex;
+  align-items: center;
+}
+p {
+  color: white;
+}
+
+.meg-topnav ul li {
+  margin: 0 15px;
+}
+.link-white ul li a {
+  color: white;
+}
+.link-black ul li a {
+  color: black;
+}
+.meg-cart-icon {
+  position: relative;
+}
+.meg-cart-icon img {
+  width: 30px;
+  margin-right: 15px;
+}
+
+.meg-cart-icon span {
+  position: absolute;
+  display: flex;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  border: 1.5px solid #ff4b30;
+  color: white;
+  align-items: center;
+  background: #ff4b30;
+  font-size: 10px;
+  font-weight: 600;
+  justify-content: center;
+  top: 0;
+  right: 8px;
+}
+.meg-ham {
+  display: none;
+  cursor: pointer;
+  height: 16px;
+  width: 25px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.meg-ham-bar,
+.meg-ham-bar-top,
+.meg-ham-bar-bottom {
+  position: relative;
+  width: 22px;
+  height: 1.5px;
+  border-radius: 20px;
+}
+
+.ham-black span {
+  background: black;
+}
+
+.ham-white span {
+  background: white;
+}
+
+.isActive .meg-top-rotate {
+  transform: rotate(45deg);
+  top: 10px;
+}
+
+.isActive .meg-bottom-rotate {
+  transform: rotate(-45deg);
+  bottom: 12px;
+}
+
+.isActive.meg-ham-height {
+  height: 24px;
+}
+
+.isActive .meg-none,
+.meg-gone {
+  display: none;
+}
+
+.meg-hide {
+  height: 0;
+  display: none;
+}
+
+@media (max-width: 990px) {
+  .meg-topnav {
+    display: none;
+  }
+  .meg-ham {
+    display: flex;
+  }
+}
+
+@media (max-width: 700px) {
+  .meg-nav-con .logo-con img {
+    width: 60px;
+  }
+}
+
+@media (max-width: 500px) {
+  .meg-nav-con.meg-header {
+    padding: 0 20px;
+  }
+}
+.social-icons {
+  color: black;
+}
+
+@media (max-width: 850px) {
+  .meg-nav-con {
+    padding: 0 40px;
+  }
+}
+
+/*********search*********/
+.meg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-form {
+  width: 100%;
+}
+
+.searchbox {
+  width: 45px;
+  height: 45px;
+  font-size: 15px;
+  border: none;
+  float: right;
+  background: transparent;
+  background-size: 18px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: all 0.5s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.searchbox:hover {
+  cursor: pointer;
+}
+
+.searchbox:focus {
+  cursor: text;
+  width: 100%;
+  outline: none;
+  text-indent: 15px;
+  background-position-x: 90%;
+}
+
+.meg-color-white {
+  color: white;
+}
+.meg-color-black {
+  color: black;
+}
+
+/*********land*********/
+.meg-land {
+  color: white;
+  padding: 85px 20px;
+  display: flex;
+  align-items: center;
+  background-color: black;
+  justify-content: center;
+}
+.meg-land-first h2 {
+  margin: 0 0 20px 0;
+  font-size: 22px;
+  color: #ff4b30;
+}
+.meg-land-first {
+  flex-direction: column;
+  display: flex;
+  align-items: flex-start;
+}
+
+.meg-btn-orange {
+  background-color: #ff4b30;
+  color: white;
+  transition: transform 0.6s;
+  border: none;
+  padding: 13px 22px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.meg-btn-orange:focus {
+  border: none;
+}
+@media (max-width: 500.98px) {
+  .meg-btn-orange {
+    padding: 10px 15px;
+    font-size: 12px;
+  }
+
+  .form-container .meg-btn-submit {
+    width: 100px;
+    padding: 10px 15px;
+    font-size: 12px;
+  }
+}
+
+.meg-btn-orange:hover {
+  transform: scale(1.1);
+}
+.meg-land-second {
+  margin-left: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.meg-land-second img {
+  width: 800px;
+}
+h1 {
+  color: #e4e4e4;
+  font-family: bebas, sans-serif;
+  font-size: 130px;
+  font-weight: 500;
+  margin: 0;
+  line-height: 1;
+}
+.meg-search-div {
+  display: flex;
+  align-items: center;
+}
+
+/* Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+  .meg-land-first h1 {
+    font-size: 100px;
+  }
+  .meg-land-second img {
+    width: 650px;
+  }
+}
+@media (max-width: 1200px) {
+  .meg-land {
+    padding: 130px 45px;
+  }
+}
+
+@media (max-width: 990px) {
+  .meg-land-first h1 {
+    font-size: 120px;
+  }
+  .meg-land {
+    flex-direction: column;
+    padding: 60px 25px;
+  }
+  .meg-land-second {
+    margin: 0;
+  }
+}
+
+@media (max-width: 700px) {
+  .meg-land-first h1 {
+    font-size: 100px;
+  }
+  .meg-land-second img {
+    width: 500px;
+  }
+  .meg-land {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 535px) {
+  .meg-land-first h1 {
+    font-size: 80px;
+  }
+  .meg-land-second img {
+    width: 415px;
+  }
+
+  .meg-land-first {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 450px) {
+  .meg-land-second img {
+    width: 285px;
+  }
+}
+
+.meg-core {
+  color: white;
+  background-color: black;
+  padding: 1px 10px;
+  padding-bottom: 30px;
+}
+.meg-core-flex-main {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 1080px;
+  margin: 20px auto;
+  padding-top: 30px;
+}
+
+.core-container {
+  display: inline-block;
+  border: 1.5px solid #1c1b1b;
+  max-width: 300px;
+  padding: 45px 35px;
+  border-radius: 3px;
+}
+
+.meg-icon {
+  border: 1px solid #ff4b30;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+}
+.meg-icon img {
+  width: 40px;
+}
+.flex-icon h3 {
+  font-family: bebas;
+  margin: 0;
+  font-size: 23px;
+}
+
+.flex-icon {
+  display: flex;
+  justify-content: space-between;
+}
+
+.core-content h3 {
+  font-size: 23px;
+  margin: 30px 0;
+}
+
+.core-content p {
+  line-height: 1.7;
+  color: gray;
+  margin: 0;
+}
+
+@media (max-width: 985px) {
+  .core-container:nth-child(2),
+  .core-container:nth-child(3) {
+    border: 0;
+    border-left: 1.5px solid #1c1b1b;
+  }
+  .core-container {
+    border: 0;
+  }
+}
+
+@media (max-width: 680px) {
+  .core-container,
+  .core-container:nth-child(2),
+  .core-container:nth-child(3) {
+    border: 1.5px solid #1c1b1b;
+    margin: 10px 0;
+  }
+
+  .meg-core-flex-main {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/*******row product********/
+
+.meg-row-products {
+  background-color: white;
+  color: black;
+  padding: 15px 10px;
+}
+
+.meg-quick-head {
+  margin-top: 12px;
+  position: relative;
+  z-index: 1;
+  height: 212px;
+  display: flex;
+  align-items: center;
+  padding: 0 120px;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.meg-quick-head h3 span {
+  color: #ff4b30;
+}
+.meg-quick-head h3 {
+  margin: 0;
+  font-size: 55px;
+  line-height: 1;
+  font-weight: 100;
+  font-family: bebas;
+}
+.text-center {
+  text-align: center;
+}
+
+.meg-quick-head h2 {
+  font-family: bebas;
+  margin: 0;
+  top: 0;
+  font-size: 170px;
+  font-weight: 500;
+  color: #f6f6f6;
+  position: absolute;
+  z-index: -1;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.slick-next.fa-arrow-right,
+.slick-prev.fa-arrow-left {
+  color: #ff4b30;
+  width: 20px;
+}
+.slick-next.fa-arrow-right:hover,
+.slick-prev.fa-arrow-left:hover {
+  color: #ff4b30;
+}
+
+@media (max-width: 895px) {
+  .meg-quick-head {
+    padding: 0 80px;
+  }
+}
+
+@media (max-width: 885px) {
+  .meg-quick-head h2 {
+    font-size: 130px;
+  }
+  .meg-quick-head h3 {
+    font-size: 50px;
+  }
+  .meg-quick-head {
+    height: 165px;
+    padding: 0 60px;
+  }
+}
+
+@media (max-width: 600px) {
+  .meg-quick-head h3 {
+    font-size: 45px;
+  }
+}
+
+@media (max-width: 750px) {
+  .meg-quick-head {
+    height: 124px;
+  }
+  .meg-quick-head h2 {
+    display: none;
+  }
+
+  .meg-quick-head {
+    padding: 0 20px;
+  }
+}
+
+.meg-quick-row-container {
+  margin: 0px 110px;
+  position: relative;
+  padding: 20px 0;
+}
+.meg-carousel-div {
+  text-align: center;
+  margin: 0 auto;
+}
+.quick-card {
+  margin: 0 20px;
+  box-shadow: 1px 1px 6px -2px #aaaaaa;
+  border-radius: 8px;
+}
+.quick-content {
+  text-align: center;
+  position: relative;
+  padding: 2px 25px;
+  height: 170px;
+  background-color: #f6f6f6;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.quick-content p {
+  color: black;
+}
+.quick-content h2 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.quick-product img {
+  width: 230px;
+}
+.quick-product {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.slick-list .slick-track .slick-slide {
+  height: 430px;
+  padding-top: 20px;
+}
+.slick-list .slick-track .slick-slide div div {
+  max-width: 325px;
+}
+
+@media (max-width: 1045px) {
+  .meg-quick-row-container {
+    margin: 0 50px;
+  }
+}
+
+@media (max-width: 750px) {
+  .meg-row-products .meg-quick-row-container {
+    margin: 0 40px;
+  }
+}
+
+@media (max-width: 650px) {
+  .meg-row-products .meg-quick-row-container {
+    margin: 0 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .meg-row-products .meg-quick-row-container {
+    margin: 0;
+  }
+}
+
+@media (max-width: 965px) {
+  .meg-quick-row-container {
+    margin: 0 130px;
+  }
+}
+
+@media (max-width: 900px) {
+  .meg-quick-row-container {
+    margin: 0 80px;
+  }
+}
+
+@media (max-width: 1130px) {
+  .slick-list .slick-track .slick-slide div div {
+    max-width: 310px;
+  }
+  .quick-product img {
+    width: 200px;
+  }
+  .quick-content h2 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  .quick-card .quick-content h4 {
+    margin-bottom: 0;
+    font-size: 15px;
+  }
+  .quick-content p {
+    font-size: 14px;
+    margin: 12px 0;
+  }
+  .quick-content .price-arrow {
+    bottom: 16px;
+  }
+  .price-arrow p {
+    font-size: 14px;
+  }
+  .meg-right-arrow {
+    font-size: 16px;
+  }
+  .quick-content {
+    padding: 2px 20px;
+    height: 135px;
+  }
+}
+
+.price-arrow {
+  bottom: 18px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 85%;
+}
+.meg-right-arrow {
+  color: #ff4b30;
+  font-size: 20px;
+}
+.quick-content h4 {
+  margin-bottom: 22px;
+  margin-top: 0;
+  color: #cbc9c9;
+}
+.price-arrow p {
+  margin: 0;
+  color: #ff4b30;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+/********discount********/
+
+.meg-discount-flex {
+  padding: 30px 0;
+  max-width: 1024px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.meg-discount {
+  padding: 80px 20px;
+}
+
+.meg-discount-content h2 {
+  font-size: 40px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.meg-discount {
+  background-image: url("/assets/bg-2.jpg");
+}
+
+.meg-discount-content h4 {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 30px;
+  margin-top: 12px;
+}
+
+.meg-full-kit {
+  font-size: 18px;
+  color: red;
+}
+
+.meg-discount-img {
+  max-width: 60%;
+}
+.meg-discount-img img {
+  width: 100%;
+}
+.meg-discount-content {
+  line-height: 1.4;
+  max-width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 990.98px) {
+  .meg-discount-content {
+    max-width: 60%;
+    margin-top: 40px;
+  }
+  .meg-discount-img {
+    max-width: 80%;
+  }
+  .meg-discount-flex {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 585px) {
+  .meg-discount-content h2 {
+    font-size: 35px;
+    margin-bottom: 5px;
+  }
+  .meg-discount-content h4 {
+    font-size: 20px;
+  }
+  .meg-full-kit {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 585px) {
+  .meg-discount-content h2 {
+    font-size: 30px;
+  }
+  .meg-discount-content h4 {
+    font-size: 18px;
+  }
+  .meg-discount {
+    padding: 60px 0;
+  }
+}
+
+/********contact********/
+.meg-contact {
+  color: black;
+}
+.meg-contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 10px;
+  margin: 30px 0;
+}
+.black-rel,
+.white-rel {
+  position: relative;
+}
+.product h1 {
+  font-size: 200px;
+  font-weight: 500;
+  width: 100%;
+  position: absolute;
+  margin: 0;
+  text-align: center;
+  left: 0%;
+  top: 24px;
+  font-family: bebas;
+}
+.grey-abs {
+  z-index: -1;
+  color: #f6f6f6;
+}
+.color-black {
+  color: #191919;
+}
+.meg-brand {
+  position: relative;
+  line-height: 1.2;
+}
+.white-top {
+  margin-top: 17px;
+}
+.black-top {
+  margin-top: 40px;
+}
+
+.meg-core-p {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  color: gray;
+  line-height: 1.5;
+}
+
+.meg-brand h2 {
+  font-size: 25px;
+  text-align: center;
+  display: flex;
+  font-weight: 100;
+  flex-direction: column;
+  margin: 0;
+  font-family: bebas;
+}
+.red-top {
+  color: red;
+}
+.meg-brand h3 {
+  margin: 0;
+  font-size: 50px;
+  text-align: center;
+  font-family: bebas;
+  font-weight: 100;
+}
+.meg-brand h4 {
+  margin: 0;
+  font-family: bebas;
+  text-align: center;
+  font-weight: 100;
+  font-size: 40px;
+}
+.slick-list .slick-track .slick-slide div div:focus {
+  outline: none;
+}
+
+@media (max-width: 800px) {
+  .product h1 {
+    display: none;
+  }
+  .meg-brand h4 {
+    font-size: 30px;
+  }
+  .meg-brand h3 {
+    font-size: 45px;
+  }
+  .meg-brand {
+    margin-top: 5px;
+  }
+}
+@media (max-width: 500px) {
+  .meg-brand h3 {
+    font-size: 34px;
+  }
+}
+
+@media (max-width: 400px) {
+  .product h1 {
+    font-size: 80px;
+  }
+}
+
+.meg-address {
+  padding: 30px 5px 70px 5px;
+  display: flex;
+  justify-content: space-around;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  font-family: inherit;
+  resize: none;
+}
+
+.contact-details,
+textarea {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 15px;
+  width: 400px;
+  border: 1.5px solid #e1e1e1;
+}
+
+@media (max-width: 767.98px) {
+  .contact-details,
+  textarea {
+    width: 350px;
+  }
+  .meg-contact-container {
+    margin: 30px 0 15px;
+    padding: 10px 10px;
+  }
+}
+@media (max-width: 390.98px) {
+  .contact-details,
+  textarea {
+    width: 300px;
+  }
+}
+
+@media (max-width: 667.98px) {
+  .meg-address {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .meg-address-text {
+    margin-top: 40px;
+  }
+}
+
+.meg-btn-submit {
+  width: 200px;
+  align-self: flex-end;
+  background-color: #ff4b30;
+  color: white;
+  transition: transform 0.6s;
+  border: none;
+  padding: 13px 22px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
+
+.contact-details:focus,
+textarea:focus {
+  outline: none;
+  border: 1.5px solid #ff4b30;
+}
+
+.meg-address-text h3:nth-child(3) {
+  margin: 50px 0 10px;
+}
+.meg-address-text h3:nth-child(1) {
+  margin-bottom: 25px;
+}
+.meg-address-text h3:nth-child(4) {
+  margin: 0;
+}
+.meg-para {
+  max-width: 400px;
+  color: gray;
+  line-height: 1.5;
+  margin: 0 0 25px;
+}
+
+/********footer********/
+
+.meg-foot {
+  background: black;
+  padding: 40px 10px;
+}
+
+.meg-foot-flex {
+  display: flex;
+  justify-content: flex-start;
+  padding: 25px 0 0 0;
+}
+.meg-foot-out {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+}
+.meg-logo-png {
+  max-width: 80px;
+  height: auto;
+  margin-bottom: 25px;
+  margin-left: 40px;
+}
+
+.meg-foot-logo {
+  justify-content: center;
+}
+
+.meg-foot-one {
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.meg-foot-navlinks {
+  margin-bottom: 25px;
+  margin-left: 25px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.meg-flex {
+  display: flex;
+}
+
+.meg-foot-navlinks li a {
+  font-size: 15px;
+  font-weight: lighter;
+}
+.meg-foot-navlinks li {
+  margin: 10px 15px;
+}
+
+.meg-foot-navlinks li a:hover,
+.lite-border:hover {
+  color: white;
+  border-color: white;
+}
+
+.meg-foot-social li a:hover,
+.meg-head-social-black li a:hover {
+  color: white;
+}
+
+.meg-head-social-white li a:hover {
+  color: black;
+}
+
+.dark-border:hover {
+  color: black;
+  border-color: black;
+}
+.meg-foot-social li {
+  padding: 0 20px;
+}
+
+.meg-foot-social {
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.social-margin {
+  margin-bottom: 25px;
+  justify-content: center;
+}
+
+.meg-foot-social li a,
+.meg-head-social-black li a,
+.meg-foot-navlinks li a {
+  color: #aaaaaa;
+}
+.meg-head-social-white li a {
+  color: #696767;
+}
+.meg-head-social-black li,
+.meg-head-social-white li {
+  padding: 0 40px;
+}
+
+.lite-border {
+  border: 2px solid #aaaaaa;
+}
+
+.dark-border {
+  border: 2px solid #848484;
+  color: #848484;
+}
+
+.foot-round {
+  height: 40px;
+  width: 40px;
+}
+
+.head-round {
+  height: 30px;
+  width: 30px;
+  font-size: 14px;
+}
+
+.meg-round-social {
+  font-size: 20px;
+}
+
+.meg-copy span {
+  color: #aaaaaa;
+  font-size: 13px;
+}
+.meg-rights hr {
+  border: 1px solid #646464;
+  border-top: 0;
+  border-width: 1px;
+}
+
+.meg-foot-out .meg-rights .meg-copy {
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 534.98px) {
+  .meg-foot-navlinks {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 850px) {
+  .meg-foot-flex {
+    flex-direction: column;
+  }
+  .meg-log {
+    text-align: center;
+  }
+  .meg-logo-png {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 745px) {
+  .meg-foot-one {
+    flex-direction: column;
+  }
+
+  .meg-foot-navlinks,
+  .meg-logo-png {
+    margin-left: 0;
+  }
+
+  .social-margin,
+  .meg-foot-navlinks {
+    margin-top: 25px;
+  }
+  .social-margin.meg-margin-right-25 {
+    margin-right: 0;
+  }
+}
+
+.meg-margin-right-25 {
+  margin-right: 25px;
+}

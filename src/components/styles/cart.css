@@ -1,0 +1,138 @@
+.meg-cart {
+  padding: 25px 0;
+}
+
+.meg-cart-wrapper {
+  padding: 20px;
+  max-width: 950px;
+  margin: 0 auto;
+}
+.meg-cf-head {
+  border-bottom: 1px solid #f0f0f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.meg-cart-list-con {
+  padding: 20px;
+  border-bottom: 1px solid #f0f0f0;
+}
+.meg-cart-flex {
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+}
+.meg-cart-details {
+  flex-grow: 2;
+  display: flex;
+}
+.meg-cart-price {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.meg-cart-total {
+  color: black;
+  font-size: 17px;
+  margin: 0;
+  font-weight: 500;
+}
+.meg-cart-details img {
+  width: 120px;
+}
+.meg-cart-title {
+  margin-left: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.meg-cart-brand {
+  color: gray;
+  margin: 0 0 5px 0;
+  font-size: 12px;
+}
+
+.meg-cart-title h3 {
+  margin: 0 0 12px 0;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.meg-cart-delete {
+  cursor: pointer;
+  color: #878787;
+  font-size: 17px;
+  transition: ease 0.5s;
+}
+
+.meg-cart-delete:hover {
+  color: red;
+}
+
+.meg-cart-head {
+  font-size: 30px;
+  font-weight: 500;
+}
+.meg-cart-price-single {
+  margin: 0 0 0 15px;
+  color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.meg-cart-input-con input {
+  padding: 5px;
+  width: 50px;
+  text-align: center;
+  font-size: 15px;
+  border: 1.5px solid;
+}
+.meg-cart-input-con {
+  display: flex;
+  align-items: center;
+}
+
+.meg-cart-price-single span {
+  margin-right: 10px;
+}
+
+@media (max-width: 700.98px) {
+  .meg-cart-flex {
+    padding: 10px 10px;
+    flex-direction: column;
+  }
+  .meg-cart-price {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500.98px) {
+  .meg-cart-title {
+    margin-left: 15px;
+  }
+  .meg-cart-details {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .meg-cart-head {
+    font-size: 27px;
+  }
+  .meg-cart-list-con {
+    padding: 5px;
+  }
+  .meg-cart-details img {
+    width: 90px;
+  }
+  .meg-cart-price-single {
+    font-size: 13px;
+  }
+  .meg-cart-title h3 {
+    font-size: 18px;
+  }
+  .meg-cart-total {
+    font-size: 15px;
+  }
+}

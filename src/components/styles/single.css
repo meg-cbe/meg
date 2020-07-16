@@ -1,0 +1,241 @@
+.meg-single-wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.meg-accessories-con {
+  padding: 20px 0 50px;
+  width: 1250px;
+  max-width: calc(100% - 80px);
+  margin: 20px auto;
+}
+
+.meg-accessories-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 70px 70px;
+}
+@media (max-width: 575.98px) {
+  .meg-accessories-con .meg-accessories-grid {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 30px 70px;
+  }
+  .meg-accessories-con {
+    max-width: calc(100% - 20px);
+  }
+}
+
+@media (max-width: 1030px) {
+  .meg-accessories-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px 70px;
+  }
+}
+.meg-bike-name {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+}
+.meg-bike-con img {
+  width: 100%;
+}
+.meg-accessories-head {
+  padding: 60px 0 0;
+  margin: 0;
+  font-family: bebas;
+  text-align: center;
+  font-size: 70px;
+  font-weight: 500;
+}
+
+@media (max-width: 740px) {
+  .meg-accessories-head {
+    font-size: 60px;
+  }
+}
+@media (max-width: 600px) {
+  .meg-accessories-head {
+    font-size: 50px;
+  }
+}
+
+.meg-mob-header.header-black {
+  background-color: black;
+}
+
+.meg-mob-header.header-white {
+  background-color: white;
+}
+
+.meg-about-content {
+  color: #000000;
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 10px;
+  font-size: 22px;
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+.meg-abt-insta {
+  text-align: center;
+  font-size: 60px;
+  padding: 40px 0 10px;
+}
+
+.meg-about-con {
+  padding: 0 0 30px;
+  background-image: url(/assets/aboutuslogo.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.meg-bike-con {
+  cursor: pointer;
+}
+
+.meg-allproducts-con {
+  padding: 20px 0 50px;
+  width: 1150px;
+  max-width: calc(100% - 80px);
+  margin: 20px auto;
+}
+.meg-allproducts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 80px 75px;
+}
+@media (max-width: 850px) {
+  .meg-allproducts-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 900px) {
+  .meg-allproducts-grid {
+    grid-gap: 40px 70px;
+  }
+}
+
+@media (max-width: 540px) {
+  .meg-allproducts-con .meg-allproducts-grid {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
+  }
+  .meg-allproducts-grid a {
+    border-bottom: 1px solid #e6e6e6;
+  }
+  .meg-allproducts-grid .meg-simple-card {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .meg-simple-card .meg-simple-product {
+    width: 50%;
+  }
+  .meg-simple-card .meg-quick-content h2 {
+    font-size: 15px;
+  }
+  .meg-simple-card .meg-quick-content h4 {
+    font-size: 14px;
+  }
+  .meg-simple-card .meg-quick-content p {
+    font-size: 15px;
+  }
+}
+
+.meg-simple-card {
+  margin: 0 20px;
+}
+
+.meg-simple-product img {
+  width: 100%;
+}
+
+.meg-quick-content {
+  text-align: center;
+}
+
+.meg-quick-content h2 {
+  font-size: 22px;
+}
+
+.meg-quick-content h4 {
+  color: #cbc9c9;
+  font-size: 18px;
+  margin: 0;
+}
+
+.meg-quick-content p {
+  color: black;
+  font-size: 18px;
+}
+.meg-prod-bike {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.meg-prod-bike img {
+  width: 50%;
+}
+
+/********bread crumb******/
+.fat-arrow-rappa {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.fat-arrow {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  position: relative;
+  background: #ebebeb;
+  margin-right: 6px;
+  color: white;
+  text-align: left;
+  line-height: 15px;
+  margin-top: 4px;
+}
+.fat-arrow a.inner,
+.fat-arrow div.inner {
+  padding: 0 20px 0 30px;
+  color: #6c757d;
+  font-size: 14px;
+}
+.fat-arrow div.inner {
+  cursor: default;
+}
+
+.fat-arrow:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-left: 10px solid white;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
+
+.fat-arrow:before {
+  content: "";
+  z-index: 99;
+  position: absolute;
+  right: -10px;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-left: 10px solid #ebebeb;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}

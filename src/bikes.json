@@ -1,0 +1,447 @@
+{
+  "bikes": [
+    {
+      "no": "1",
+      "id": "001",
+      "url": "/assets/bikes/accessories/dominar.png",
+      "url2": "/assets/bikes/dominar-pro.png",
+      "alt": "DOMINAR",
+      "brand": "BAJAJ",
+      "name": "BAJAJ DOMINAR",
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
+    },
+    {
+      "no": "2",
+      "id": "002",
+      "url": "/assets/bikes/accessories/pulsarns200.jpg",
+      "url2": "/assets/bikes/pulsarns200-pro.png",
+      "alt": "pulsar ns200",
+      "brand": "BAJAJ",
+      "name": "BAJAJ PULSAR NS200",
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/advguard0.jpg"
+        },
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/advguard0.jpg"
+        },
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/advguard0.jpg"
+        },
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Dominar",
+          "url": "/assets/dominar/advguard0.jpg"
+        }
+      ]
+    },
+    {
+      "no": "3",
+      "id": "003",
+      "url": "/assets/bikes/accessories/pulsar220f.png",
+      "url2": "/assets/bikes/pulsar220f-pro.png",
+      "alt": "pulsar 220f",
+      "brand": "BAJAJ",
+      "name": "BAJAJ PULSAR 220F",
+      "products": []
+    },
+    {
+      "no": "4",
+      "id": "004",
+      "url": "/assets/bikes/accessories/pulsarrs200.png",
+      "url2": "/assets/bikes/pulsarrs200-pro.png",
+      "alt": "pulsar rs200",
+      "brand": "BAJAJ",
+      "name": "BAJAJ PULSAR RS200",
+      "products": []
+    },
+    {
+      "no": "5",
+      "id": "005",
+      "url": "/assets/bikes/accessories/bmwg310r.png",
+      "url2": "/assets/bikes/bmwg310r-pro.jpg",
+      "alt": "bmw g310r",
+      "brand": "BMW",
+      "name": "BMW G310R",
+      "products": []
+    },
+    {
+      "no": "6",
+      "id": "006",
+      "url": "/assets/bikes/accessories/bmwg310gs.jpg",
+      "url2": "/assets/bikes/bmwg310gs-pro.jpg",
+      "alt": "bmw g310gs",
+      "brand": "BMW",
+      "name": "BMW G310GS",
+      "products": []
+    },
+    {
+      "no": "7",
+      "id": "007",
+      "url": "/assets/bikes/accessories/duke390-2017.jpg",
+      "url2": "/assets/bikes/duke390-2017-pro.jpg",
+      "alt": "duke 390",
+      "brand": "KTM",
+      "name": "KTM DUKE 390",
+      "products": []
+    },
+    {
+      "no": "8",
+      "id": "008",
+      "url": "/assets/bikes/accessories/duke250.png",
+      "url2": "/assets/bikes/duke250-pro.png",
+      "alt": "duke 250 ",
+      "brand": "KTM",
+      "name": "KTM DUKE 250",
+      "products": []
+    },
+    {
+      "no": "9",
+      "id": "009",
+      "url": "/assets/bikes/accessories/duke390-gen1.png",
+      "url2": "/assets/bikes/duke390-gen1-pro.png",
+      "alt": "duke 390(gen1)",
+      "brand": "KTM",
+      "name": "KTM DUKE 390 (GEN 1)",
+      "products": []
+    },
+    {
+      "no": "10",
+      "id": "010",
+      "url": "/assets/bikes/accessories/duke200-gen1.jpg",
+      "url2": "/assets/bikes/duke200-gen1-pro.jpg",
+      "alt": "duke 200",
+      "brand": "KTM",
+      "name": "KTM DUKE 200/125",
+      "products": []
+    },
+    {
+      "no": "11",
+      "id": "011",
+      "url": "/assets/bikes/accessories/apacherr310.png",
+      "url2": "/assets/bikes/apacherr310-pro.jpg",
+      "alt": "apache rr310",
+      "brand": "TVS",
+      "name": "TVS APACHE RR310",
+      "products": []
+    },
+    {
+      "id": "012",
+      "no": "12",
+      "url": "/assets/bikes/accessories/benellitnt300.png",
+      "url2": "/assets/bikes/benellitnt300-pro.jpg",
+      "alt": "benelli tnt300",
+      "brand": "BENELLI",
+      "name": "BENELLI TNT 300I",
+      "products": []
+    },
+    {
+      "no": "13",
+      "id": "013",
+      "url": "/assets/bikes/accessories/fz250.png",
+      "url2": "/assets/bikes/fz250-pro.png",
+      "alt": "fz 250",
+      "brand": "YAMAHA",
+      "name": "YAMAHA FZ 250",
+      "products": []
+    },
+    {
+      "no": "14",
+      "id": "014",
+      "url": "/assets/bikes/accessories/fazer250.jpg",
+      "url2": "/assets/bikes/fazer250-pro.png",
+      "alt": "fazer 250",
+      "brand": "YAMAHA",
+      "name": "YAMAHA FAZER 250",
+      "products": []
+    },
+    {
+      "no": "15",
+      "id": "015",
+      "url": "/assets/bikes/accessories/fzsv2.png",
+      "url2": "/assets/bikes/fzsv2-pro.jpg",
+      "alt": "fzs v2",
+      "brand": "YAMAHA",
+      "name": "YAMAHA FZ S V2.0",
+      "products": []
+    },
+    {
+      "no": "16",
+      "id": "016",
+      "url": "/assets/bikes/accessories/fzsv3.png",
+      "url2": "/assets/bikes/fzsv3-pro.jpg",
+      "alt": "fzs v3",
+      "brand": "YAMAHA",
+      "name": "YAMAHA FZ S V3.0",
+      "products": []
+    },
+    {
+      "no": "17",
+      "id": "017",
+      "url": "/assets/bikes/accessories/mt15.jpg",
+      "url2": "/assets/bikes/mt15-pro.jpg",
+      "alt": "mt 15",
+      "brand": "YAMAHA",
+      "name": "YAMAHA MT 15",
+      "products": []
+    },
+    {
+      "no": "18",
+      "id": "018",
+      "url": "/assets/bikes/accessories/mojo.png",
+      "url2": "/assets/bikes/mojo-pro.jpg",
+      "alt": "mojo",
+      "brand": "MAHINDRA",
+      "name": "MAHINDRA MOJO",
+      "products": []
+    },
+    {
+      "no": "19",
+      "id": "019",
+      "url": "/assets/bikes/accessories/hornet160r.jpg",
+      "url2": "/assets/bikes/hornet160r-pro.jpg",
+      "alt": "hornet 160r",
+      "brand": "HONDA",
+      "name": "HONDA HORNET 160R",
+      "products": []
+    },
+    {
+      "no": "20",
+      "id": "020",
+      "url": "/assets/bikes/accessories/thunder350.png",
+      "url2": "/assets/bikes/thunder350-pro.png",
+      "alt": "thunderbird x",
+      "brand": "ROYAL ENFIELDS",
+      "name": "RE THUNDERBIRD X 350",
+      "products": []
+    },
+    {
+      "no": "21",
+      "id": "021",
+      "url": "/assets/bikes/accessories/himalayan.png",
+      "url2": "/assets/bikes/himalayan-pro.png",
+      "alt": "himalayan",
+      "brand": "ROYAL ENFIELDS",
+      "name": "RE HIMALAYAN",
+      "products": []
+    },
+    {
+      "no": "22",
+      "id": "022",
+      "url": "/assets/bikes/accessories/interceptor650.png",
+      "url2": "/assets/bikes/interceptor650-pro.png",
+      "alt": "interceptor",
+      "brand": "ROYAL ENFIELDS",
+      "name": "RE INTERCEPTOR 650",
+      "products": []
+    },
+    {
+      "no": "23",
+      "id": "023",
+      "url": "/assets/bikes/accessories/apriliasr150.png",
+      "url2": "/assets/bikes/apriliasr150-pro.png",
+      "alt": "aprilia sr150",
+      "brand": "APRILIA",
+      "name": "APRILIA SR150",
+      "products": []
+    }
+  ]
+}
