@@ -980,10 +980,14 @@ textarea {
   cursor: pointer;
 }
 
-.btn:hover {
+.btn:hover,
+.meg-btn-submit:hover {
   transform: scale(1.1);
 }
-
+input:focus,
+.meg-btn-orange:focus {
+  outline: none;
+}
 .contact-details:focus,
 textarea:focus {
   outline: none;

@@ -210,26 +210,189 @@
         {
           "name": "ADV Guard",
           "price": "₹ 3740.00",
-          "bike": "Dominar",
-          "url": "/assets/dominar/advguard0.jpg"
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
         },
         {
-          "name": "ADV Guard",
-          "price": "₹ 3740.00",
-          "bike": "Dominar",
-          "url": "/assets/dominar/advguard0.jpg"
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
         },
         {
-          "name": "ADV Guard",
-          "price": "₹ 3740.00",
-          "bike": "Dominar",
-          "url": "/assets/dominar/advguard0.jpg"
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
         },
         {
-          "name": "ADV Guard",
-          "price": "₹ 3740.00",
-          "bike": "Dominar",
-          "url": "/assets/dominar/advguard0.jpg"
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Pulsar NS200",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
         }
       ]
     },
@@ -241,7 +404,195 @@
       "alt": "pulsar 220f",
       "brand": "BAJAJ",
       "name": "BAJAJ PULSAR 220F",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Pulsar 220F",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "4",
@@ -251,7 +602,195 @@
       "alt": "pulsar rs200",
       "brand": "BAJAJ",
       "name": "BAJAJ PULSAR RS200",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Pulsar RS200",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "5",
@@ -261,7 +800,195 @@
       "alt": "bmw g310r",
       "brand": "BMW",
       "name": "BMW G310R",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "BMW G310R",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "6",
@@ -271,7 +998,195 @@
       "alt": "bmw g310gs",
       "brand": "BMW",
       "name": "BMW G310GS",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "BMW G310GS",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "7",
@@ -281,7 +1196,195 @@
       "alt": "duke 390",
       "brand": "KTM",
       "name": "KTM DUKE 390",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Duke 390",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "8",
@@ -291,7 +1394,195 @@
       "alt": "duke 250 ",
       "brand": "KTM",
       "name": "KTM DUKE 250",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Duke 250",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "9",
@@ -301,7 +1592,195 @@
       "alt": "duke 390(gen1)",
       "brand": "KTM",
       "name": "KTM DUKE 390 (GEN 1)",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Duke 390 (Gen 1)",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "10",
@@ -311,7 +1790,195 @@
       "alt": "duke 200",
       "brand": "KTM",
       "name": "KTM DUKE 200/125",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Duke 200/150",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "11",
@@ -321,7 +1988,195 @@
       "alt": "apache rr310",
       "brand": "TVS",
       "name": "TVS APACHE RR310",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Apache 310RR",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "id": "012",
@@ -331,7 +2186,195 @@
       "alt": "benelli tnt300",
       "brand": "BENELLI",
       "name": "BENELLI TNT 300I",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Benelli TNT300",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "13",
@@ -341,7 +2384,195 @@
       "alt": "fz 250",
       "brand": "YAMAHA",
       "name": "YAMAHA FZ 250",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "FZ 250",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "14",
@@ -351,7 +2582,195 @@
       "alt": "fazer 250",
       "brand": "YAMAHA",
       "name": "YAMAHA FAZER 250",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Fazer 250",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "15",
@@ -361,7 +2780,195 @@
       "alt": "fzs v2",
       "brand": "YAMAHA",
       "name": "YAMAHA FZ S V2.0",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "FZS V 2.0",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "16",
@@ -371,7 +2978,195 @@
       "alt": "fzs v3",
       "brand": "YAMAHA",
       "name": "YAMAHA FZ S V3.0",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "FZS V 3.0",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "17",
@@ -381,7 +3176,195 @@
       "alt": "mt 15",
       "brand": "YAMAHA",
       "name": "YAMAHA MT 15",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "MT 15",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "18",
@@ -391,7 +3374,195 @@
       "alt": "mojo",
       "brand": "MAHINDRA",
       "name": "MAHINDRA MOJO",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Mojo",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "19",
@@ -401,17 +3572,393 @@
       "alt": "hornet 160r",
       "brand": "HONDA",
       "name": "HONDA HORNET 160R",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Hornet 160R",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "20",
       "id": "020",
       "url": "/assets/bikes/accessories/thunder350.png",
       "url2": "/assets/bikes/thunder350-pro.png",
-      "alt": "thunderbird x",
+      "alt": "thunderbird x350",
       "brand": "ROYAL ENFIELDS",
       "name": "RE THUNDERBIRD X 350",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Thunderbird X350",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "21",
@@ -421,17 +3968,393 @@
       "alt": "himalayan",
       "brand": "ROYAL ENFIELDS",
       "name": "RE HIMALAYAN",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Himalayan",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "22",
       "id": "022",
       "url": "/assets/bikes/accessories/interceptor650.png",
       "url2": "/assets/bikes/interceptor650-pro.png",
-      "alt": "interceptor",
+      "alt": "interceptor 650",
       "brand": "ROYAL ENFIELDS",
       "name": "RE INTERCEPTOR 650",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Interceptor 650",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     },
     {
       "no": "23",
@@ -441,7 +4364,195 @@
       "alt": "aprilia sr150",
       "brand": "APRILIA",
       "name": "APRILIA SR150",
-      "products": []
+      "products": [
+        {
+          "name": "ADV Guard",
+          "price": "₹ 3740.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/advguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/advguard0.jpg",
+            "/assets/dominar/advguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Toprack",
+          "price": "₹ 2300.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/toprack0.jpg",
+          "otherUrl": [
+            "/assets/dominar/toprack0.jpg",
+            "/assets/dominar/toprack0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Handlebar Raisers pro",
+          "price": "₹ 700.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/handlebarraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/handlebarraiser0.jpg",
+            "/assets/dominar/handlebarraiser0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Saddle Stays",
+          "price": "₹ 2100.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/saddlestays0.jpg",
+          "otherUrl": [
+            "/assets/dominar/saddlestays0.jpg",
+            "/assets/dominar/saddlestays0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Bashplate",
+          "price": "₹ 4050.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/bashplate0.jpg",
+          "otherUrl": [
+            "/assets/dominar/bashplate0.jpg",
+            "/assets/dominar/bashplate0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Pillion Backrest",
+          "price": "₹ 1260.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/backrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/backrest0.jpg",
+            "/assets/dominar/backrest0.jpg"
+          ]
+        },
+        {
+          "name": "Rider Backrest",
+          "price": "₹ 1450.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/riderbackrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/riderbackrest0.jpg",
+            "/assets/dominar/riderbackrest0.jpg"
+          ]
+        },
+        {
+          "name": "D-Guard",
+          "price": "₹ 2550.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/dguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/dguard0.jpg",
+            "/assets/dominar/dguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V1)",
+          "price": "₹ 1800.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/radiatorguardv10.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv10.jpg",
+            "/assets/dominar/radiatorguardv10.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Radiator Guard (V2)",
+          "price": "₹ 1750.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/radiatorguardv20.jpg",
+          "otherUrl": [
+            "/assets/dominar/radiatorguardv20.jpg",
+            "/assets/dominar/radiatorguardv20.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Crash Guard",
+          "price": "₹ 2840.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/crashguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/crashguard0.jpg",
+            "/assets/dominar/crashguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Number Plate Relocator",
+          "price": "₹ 630.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/relocator0.jpg",
+          "otherUrl": [
+            "/assets/dominar/relocator0.jpg",
+            "/assets/dominar/relocator0.jpg"
+          ]
+        },
+        {
+          "name": "Exhaust Guard",
+          "price": "₹ 450.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/exhaustguard0.jpg",
+          "otherUrl": [
+            "/assets/dominar/exhaustguard0.jpg",
+            "/assets/dominar/exhaustguard0.jpg"
+          ],
+          "colors": ["color-black", "color-orange", "color-red"]
+        },
+        {
+          "name": "Foglamp Mount",
+          "price": "₹ 600.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/foglamp0.jpg",
+          "otherUrl": [
+            "/assets/dominar/foglamp0.jpg",
+            "/assets/dominar/foglamp0.jpg"
+          ]
+        },
+        {
+          "name": "Windshield",
+          "price": "₹ 1590.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/windshield0.jpg",
+          "otherUrl": [
+            "/assets/dominar/windshield0.jpg",
+            "/assets/dominar/windshield0.jpg"
+          ]
+        },
+        {
+          "name": "Pillion Footrest",
+          "price": "₹ 695.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/footrest0.jpg",
+          "otherUrl": [
+            "/assets/dominar/footrest0.jpg",
+            "/assets/dominar/footrest0.jpg"
+          ]
+        },
+        {
+          "name": "Headlamp Raiser",
+          "price": "₹ 1150.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/headlampraiser0.jpg",
+          "otherUrl": [
+            "/assets/dominar/headlampraiser0.jpg",
+            "/assets/dominar/headlampraiser0.jpg"
+          ]
+        },
+        {
+          "name": "Jerry Can- 5 litres",
+          "price": "₹ 3000.00",
+          "bike": "Aprilia SR150",
+          "url": "/assets/dominar/can0.jpg",
+          "otherUrl": ["/assets/dominar/can0.jpg", "/assets/dominar/can0.jpg"]
+        }
+      ]
     }
   ]
 }
