@@ -42,19 +42,10 @@ p {
   font-size: 18px;
 }
 .meg-detail-slick .slick-list .slick-track .slick-slide div div {
-  max-width: 450px;
+  max-width: 350px;
 }
 .meg-detail-slick .slick-list {
-  height: 550px;
-}
-
-@media (max-width: 1050.98px) {
-  .meg-detail-slick .slick-list {
-    height: 450px;
-  }
-  .meg-detail-slick .slick-list .slick-track .slick-slide div div {
-    max-width: 350px;
-  }
+  height:450px;
 }
 
 @media (max-width: 950px) {

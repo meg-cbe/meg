@@ -17,7 +17,7 @@ export default class Cart extends React.Component{
             <div className="meg-cart-wrapper">
                 <div className="meg-cf-head">
                     <h2 className="meg-cart-head">Shopping Cart</h2>
-                    <MegLink class="meg-btn-orange" link="/accessories" title="SHOP NOW"/>
+                    <MegLink class="meg-btn-orange" link="/accessories" title="SHOP MORE"/>
                 </div>
                 <div className="meg-cart-list-con">
                     <div className="meg-cart-flex">

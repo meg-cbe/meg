@@ -45,7 +45,7 @@ a {
 }
 
 .meg-ground-black {
-  background-color: black;
+  background-color:#000306;
 }
 
 .meg-mob-header {
@@ -263,7 +263,7 @@ p {
   padding: 85px 20px;
   display: flex;
   align-items: center;
-  background-color: black;
+  background-color: #000306;
   justify-content: center;
 }
 .meg-land-first h2 {
@@ -278,6 +278,7 @@ p {
 }
 
 .meg-btn-orange {
+  font-family: "Roboto", sans-serif;
   background-color: #ff4b30;
   color: white;
   transition: transform 0.6s;
@@ -590,20 +591,22 @@ h1 {
   text-align: center;
   position: relative;
   padding: 2px 25px;
-  height: 170px;
+  height: 150px;
   background-color: #f6f6f6;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
 }
 .quick-content p {
+  font-size: 14px;
+  margin: 12px 0;
   color: black;
 }
 .quick-content h2 {
-  font-size: 20px;
-  margin-bottom: 5px;
+  font-size: 18px;
+  margin-bottom: 10px;
 }
 .quick-product img {
-  width: 230px;
+  width: 200px;
 }
 .quick-product {
   display: flex;
@@ -661,21 +664,7 @@ h1 {
   .slick-list .slick-track .slick-slide div div {
     max-width: 310px;
   }
-  .quick-product img {
-    width: 200px;
-  }
-  .quick-content h2 {
-    font-size: 18px;
-    margin-top: 10px;
-  }
-  .quick-card .quick-content h4 {
-    margin-bottom: 0;
-    font-size: 15px;
-  }
-  .quick-content p {
-    font-size: 14px;
-    margin: 12px 0;
-  }
+  
   .quick-content .price-arrow {
     bottom: 16px;
   }
@@ -687,12 +676,12 @@ h1 {
   }
   .quick-content {
     padding: 2px 20px;
-    height: 135px;
+    height: 140px;
   }
 }
 
 .price-arrow {
-  bottom: 18px;
+  bottom: 16px;
   position: absolute;
   display: flex;
   align-items: center;
@@ -704,9 +693,10 @@ h1 {
   font-size: 20px;
 }
 .quick-content h4 {
-  margin-bottom: 22px;
   margin-top: 0;
   color: #cbc9c9;
+  margin-bottom: 0;
+  font-size: 15px;
 }
 .price-arrow p {
   margin: 0;
@@ -967,6 +957,7 @@ textarea {
 }
 
 .meg-btn-submit {
+  font-family: "Roboto", sans-serif;
   width: 200px;
   align-self: flex-end;
   background-color: #ff4b30;
